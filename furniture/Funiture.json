@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "GrayChair",
+    "content": "",
+    "price": "$500"
+  },
+  {
+    "id": 2,
+    "title": "ChairBad",
+    "content": "",
+    "price": "$600"
+  },
+  {
+    "id": 3,
+    "title": "DeskChairSet",
+    "content": "",
+    "price": "$1,000"
+  },
+  {
+    "id": 4,
+    "title": "WideChair",
+    "content": "",
+    "price": "$2,000"
+  },
+  {
+    "id": 5,
+    "title": "Herman Miller",
+    "content": "",
+    "price": "$2,500"
+  },
+  {
+    "id": 6,
+    "title": "lamp",
+    "content": "",
+    "price": "$1,000"
+  },
+
+  {
+    "id": 7,
+    "title": "BrownChair",
+    "content": "",
+    "price": "$5,000"
+  },
+  {
+    "id": 8,
+    "title": "OfiiceChair",
+    "content": "",
+    "price": "$1,000"
+  },
+  {
+    "id": 9,
+    "title": "OfficeLeaderChair",
+    "content": "",
+    "price": "$2,000"
+  },
+  {
+    "id": 9,
+    "title": "MotionDesk",
+    "content": "",
+    "price": "$4,000"
+  }
+]
