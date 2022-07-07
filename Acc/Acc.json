@@ -93,9 +93,9 @@
   },
   {
     "id": 16,
-    "title": "Dron",
+    "title": "GalaxyWatch",
     "content": "",
-    "price": "$9,000"
+    "price": "$2,000"
   },
 
   {
@@ -124,8 +124,8 @@
   },
   {
     "id": 21,
-    "title": "Telephone",
+    "title": "IPhoneNiceCase",
     "content": "",
-    "price": "$4,000"
+    "price": "$400"
   }
 ]
