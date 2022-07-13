@@ -7,6 +7,12 @@
   },
   {
     "id": 1,
+    "title": "MacBookPro16",
+    "content": "",
+    "price": "$15,000"
+  },
+  {
+    "id": 2,
     "title": "IPhone12",
     "content": "",
     "price": "$4,000"
