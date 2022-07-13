@@ -1,12 +1,12 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "title": "MacBookPro16",
     "content": "",
     "price": "$15,000"
   },
   {
-    "id": 2,
+    "id": 1,
     "title": "IPhone12",
     "content": "",
     "price": "$4,000"
