@@ -1,0 +1,13 @@
+{
+  "status": "ok",
+  "message": "Logged in",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+  "user": {
+    "id": 1,
+    "fname": "Jio",
+    "lname": "Park",
+    "username": "test@naver.com",
+    "email": "test@naver.com",
+    "avatar": "https://github.com/mdab4793/petwalking/blob/master/1.jpeg?raw=true"
+  }
+}
