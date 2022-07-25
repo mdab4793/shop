@@ -3,13 +3,13 @@
     "id": 0,
     "title": "MacBookPro16",
     "url": "https://github.com/mdab4793/shop/blob/main/Tech/0.jpg?raw=true",
-    "price": "$15,000"
+    "price": "15,000"
   },
   {
     "id": 1,
     "title": "IPhone12",
     "url": "https://github.com/mdab4793/shop/blob/main/Tech/1.jpg?raw=true",
-    "price": "$4,000"
+    "price": "4,000"
   },
   {
     "id": 2,
