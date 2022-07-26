@@ -3,129 +3,129 @@
     "id": 34,
     "title": "MarshallHeadPhone",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/1.jpg?raw=true",
-    "price": "$5,000"
+    "price": 5000
   },
   {
     "id": 35,
     "title": "MarshallClassic",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/2.jpg?raw=true",
-    "price": "$6,000"
+    "price": 6000
   },
   {
     "id": 36,
     "title": "ChragingKit",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/3.jpg?raw=true",
-    "price": "$1,000"
+    "price": 1000
   },
   {
     "id": 37,
     "title": "MarshallStanmore",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/4.jpg?raw=true",
-    "price": "$2,000"
+    "price": 2000
   },
   {
     "id": 38,
     "title": "DualSense",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/5.jpg?raw=true",
-    "price": "$500"
+    "price": 500
   },
   {
     "id": 39,
     "title": "MarshallKillburn",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/6.jpg?raw=true",
-    "price": "$1,000"
+    "price": 1000
   },
 
   {
     "id": 40,
     "title": "MarshallWoburn",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/7.jpg?raw=true",
-    "price": "$5,000"
+    "price": 5000
   },
   {
     "id": 41,
     "title": "AppleWatch8",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/8.jpg?raw=true",
-    "price": "$6,000"
+    "price": 6000
   },
   {
     "id": 42,
     "title": "AirPods",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/9.jpg?raw=true",
-    "price": "$2,000"
+    "price": 2000
   },
   {
     "id": 43,
     "title": "MagicKeyBoard,TrackPad",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/10.jpg?raw=true",
-    "price": "$5,000"
+    "price": 5000
   },
   {
     "id": 44,
     "title": "AirPodsPro",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/1.jpg?raw=true",
-    "price": "$2,000"
+    "price": 2000
   },
   {
     "id": 45,
     "title": "AppleWatchSE",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/11.jpg?raw=true",
-    "price": "$2,000"
+    "price": 2000
   },
   {
     "id": 46,
     "title": "Gimbal",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/12.jpg?raw=true",
-    "price": "$9,000"
+    "price": 9000
   },
 
   {
     "id": 47,
     "title": "LeatherPouch",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/13.jpg?raw=true",
-    "price": "$3,000"
+    "price": 3000
   },
   {
     "id": 48,
     "title": "AirPodsMax",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/14.jpg?raw=true",
-    "price": "$4,000"
+    "price": 4000
   },
   {
     "id": 49,
     "title": "GalaxyWatch",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/15.jpg?raw=true",
-    "price": "$2,000"
+    "price": 2000
   },
 
   {
     "id": 50,
     "title": "CatAirPodsHolder",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/16.jpg?raw=true",
-    "price": "$300"
+    "price": 300
   },
   {
     "id": 51,
     "title": "WoodenStorageBox",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/17.jpg?raw=true",
-    "price": "$800"
+    "price": 800
   },
   {
     "id": 52,
     "title": "MobileKit",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/18.jpg?raw=true",
-    "price": "$1,000"
+    "price": 1000
   },
   {
     "id": 53,
     "title": "GimbalKit",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/19.jpg?raw=true",
-    "price": "$4,000"
+    "price": 4000
   },
   {
     "id": 54,
     "title": "IPhoneNiceCase",
     "url": "https://github.com/mdab4793/shop/blob/main/Acc/20.jpg?raw=true",
-    "price": "$400"
+    "price": 400
   }
 ]
