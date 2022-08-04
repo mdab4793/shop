@@ -188,6 +188,14 @@
     "price": 5000
   },
   {
+    "id": 23,
+    "title": "Tech",
+    "name": "Tablet",
+    "url": "https://github.com/mdab4793/shop/blob/main/Tech/23.jpg?raw=true",
+    "filter": "Tech",
+    "price": 14000
+  },
+  {
     "id": 24,
     "title": "Furniture",
     "name": "GrayChair",
@@ -261,14 +269,6 @@
     "price": 4000
   },
 
-  {
-    "id": 23,
-    "title": "Tech",
-    "name": "Tablet",
-    "url": "https://github.com/mdab4793/shop/blob/main/Tech/23.jpg?raw=true",
-    "filter": "Tech",
-    "price": 14000
-  },
   {
     "id": 33,
     "title": "Acc",
