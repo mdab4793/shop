@@ -3,36 +3,42 @@
     "id": 25,
     "title": "GrayChair",
     "url": "https://github.com/mdab4793/shop/blob/main/furniture/1.jpg?raw=true",
+    "filter": "Furniture",
     "price": 500
   },
   {
     "id": 26,
     "title": "ChairBad",
     "url": "https://github.com/mdab4793/shop/blob/main/furniture/2.jpg?raw=true",
+    "filter": "Furniture",
     "price": 600
   },
   {
     "id": 27,
     "title": "DeskChairSet",
     "url": "https://github.com/mdab4793/shop/blob/main/furniture/3.jpg?raw=true",
+    "filter": "Furniture",
     "price": 1000
   },
   {
     "id": 28,
     "title": "WideChair",
     "url": "https://github.com/mdab4793/shop/blob/main/furniture/4.jpg?raw=true",
+    "filter": "Furniture",
     "price": 2000
   },
   {
     "id": 29,
     "title": "Herman Miller",
     "url": "https://github.com/mdab4793/shop/blob/main/furniture/5.jpg?raw=true",
+    "filter": "Furniture",
     "price": 2500
   },
   {
     "id": 30,
     "title": "lamp",
     "url": "https://github.com/mdab4793/shop/blob/main/furniture/6.jpg?raw=true",
+    "filter": "Furniture",
     "price": 1000
   },
 
@@ -40,18 +46,21 @@
     "id": 31,
     "title": "BrownChair",
     "url": "https://github.com/mdab4793/shop/blob/main/furniture/7.jpg?raw=true",
+    "filter": "Furniture",
     "price": 5000
   },
   {
     "id": 32,
     "title": "OfiiceChair",
     "url": "https://github.com/mdab4793/shop/blob/main/furniture/8.jpg?raw=true",
+    "filter": "Furniture",
     "price": 1000
   },
   {
     "id": 33,
     "title": "MotionDesk",
     "url": "https://github.com/mdab4793/shop/blob/main/furniture/9.jpg?raw=true",
+    "filter": "Furniture",
     "price": 4000
   }
 ]
