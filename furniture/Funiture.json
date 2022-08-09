@@ -2,42 +2,42 @@
   {
     "id": 24,
     "title": "GrayChair",
-    "url": "https://github.com/mdab4793/shop/blob/main/furniture/24.jpg?raw=true",
+    "url1": "https://github.com/mdab4793/shop/blob/main/furniture/24.jpg?raw=true",
     "filter": "Furniture",
     "price": 500
   },
   {
     "id": 25,
     "title": "ChairBad",
-    "url": "https://github.com/mdab4793/shop/blob/main/furniture/25.jpg?raw=true",
+    "url1": "https://github.com/mdab4793/shop/blob/main/furniture/25.jpg?raw=true",
     "filter": "Furniture",
     "price": 600
   },
   {
     "id": 26,
     "title": "DeskChairSet",
-    "url": "https://github.com/mdab4793/shop/blob/main/furniture/26.jpg?raw=true",
+    "url1": "https://github.com/mdab4793/shop/blob/main/furniture/26.jpg?raw=true",
     "filter": "Furniture",
     "price": 1000
   },
   {
     "id": 27,
     "title": "WideChair",
-    "url": "https://github.com/mdab4793/shop/blob/main/furniture/27.jpg?raw=true",
+    "url1": "https://github.com/mdab4793/shop/blob/main/furniture/27.jpg?raw=true",
     "filter": "Furniture",
     "price": 2000
   },
   {
     "id": 28,
     "title": "Herman Miller",
-    "url": "https://github.com/mdab4793/shop/blob/main/furniture/28.jpg?raw=true",
+    "url1": "https://github.com/mdab4793/shop/blob/main/furniture/28.jpg?raw=true",
     "filter": "Furniture",
     "price": 2500
   },
   {
     "id": 29,
     "title": "lamp",
-    "url": "https://github.com/mdab4793/shop/blob/main/furniture/29.jpg?raw=true",
+    "url1": "https://github.com/mdab4793/shop/blob/main/furniture/29.jpg?raw=true",
     "filter": "Furniture",
     "price": 1000
   },
@@ -45,21 +45,21 @@
   {
     "id": 30,
     "title": "BrownChair",
-    "url": "https://github.com/mdab4793/shop/blob/main/furniture/30.jpg?raw=true",
+    "url1": "https://github.com/mdab4793/shop/blob/main/furniture/30.jpg?raw=true",
     "filter": "Furniture",
     "price": 5000
   },
   {
     "id": 31,
     "title": "OfiiceChair",
-    "url": "https://github.com/mdab4793/shop/blob/main/furniture/31.jpg?raw=true",
+    "url1": "https://github.com/mdab4793/shop/blob/main/furniture/31.jpg?raw=true",
     "filter": "Furniture",
     "price": 1000
   },
   {
     "id": 32,
     "title": "MotionDesk",
-    "url": "https://github.com/mdab4793/shop/blob/main/furniture/32.jpg?raw=true",
+    "url1": "https://github.com/mdab4793/shop/blob/main/furniture/32.jpg?raw=true",
     "filter": "Furniture",
     "price": 4000
   }
