@@ -4,6 +4,7 @@
     "title": "MarshallHeadPhone",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/33.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 5000
   },
   {
@@ -11,6 +12,7 @@
     "title": "MarshallClassic",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/34.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 6000
   },
   {
@@ -18,6 +20,7 @@
     "title": "ChragingKit",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/35.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 1000
   },
   {
@@ -25,6 +28,7 @@
     "title": "MarshallStanmore",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/36.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 2000
   },
   {
@@ -32,6 +36,7 @@
     "title": "DualSense",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/37.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 500
   },
   {
@@ -39,6 +44,7 @@
     "title": "MarshallKillburn",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/38.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 1000
   },
 
@@ -47,6 +53,7 @@
     "title": "MarshallWoburn",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/39.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 5000
   },
   {
@@ -54,6 +61,7 @@
     "title": "AppleWatch8",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/40.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 6000
   },
   {
@@ -61,6 +69,7 @@
     "title": "AirPods",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/41.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 2000
   },
   {
@@ -68,6 +77,7 @@
     "title": "MagicKeyBoard,TrackPad",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/42.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 5000
   },
   {
@@ -75,6 +85,7 @@
     "title": "AirPodsPro",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/43.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 2000
   },
   {
@@ -82,6 +93,7 @@
     "title": "AppleWatchSE",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/44.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 2000
   },
   {
@@ -89,6 +101,7 @@
     "title": "Gimbal",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/45.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 9000
   },
 
@@ -97,6 +110,7 @@
     "title": "LeatherPouch",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/46.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 3000
   },
   {
@@ -104,6 +118,7 @@
     "title": "AirPodsMax",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/47.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 4000
   },
   {
@@ -111,6 +126,7 @@
     "title": "GalaxyWatch",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/48.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 2000
   },
 
@@ -119,6 +135,7 @@
     "title": "CatAirPodsHolder",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/49.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 300
   },
   {
@@ -126,6 +143,7 @@
     "title": "WoodenStorageBox",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/50.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 800
   },
   {
@@ -133,6 +151,7 @@
     "title": "MobileKit",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/51.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 1000
   },
   {
@@ -140,6 +159,7 @@
     "title": "GimbalKit",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/52.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 4000
   },
   {
@@ -147,6 +167,7 @@
     "title": "IPhoneNikeCase",
     "url1": "https://github.com/mdab4793/shop/blob/main/Acc/53.jpg?raw=true",
     "filter": "Acc",
+    "color": ["white", "black", "red", "blue"],
     "price": 400
   }
 ]
